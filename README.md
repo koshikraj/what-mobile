@@ -11,8 +11,8 @@ https://what-app.io
 ## Installation
 
 ```bash
-git clone https://github.com/shango44/what.git
-cd what
+git clone https://github.com/shango44/what-mobile.git
+cd what-mobile
 
 npm install
 react-native link
