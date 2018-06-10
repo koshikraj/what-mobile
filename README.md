@@ -15,7 +15,6 @@ git clone https://github.com/shango44/what-mobile.git
 cd what-mobile
 
 npm install
-react-native link
 ```
 
 ## Run on iOS (Mac only)
